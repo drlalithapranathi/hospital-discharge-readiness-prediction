@@ -8,6 +8,9 @@
 
 [Click here to view the AgentDS Healthcare Leaderboard Screenshot](./leaderboard.png)
 
+[View the official AgentDS Healthcare Domain page](https://agentds.org/domains/healthcare)
+
+
 ---
 
 ## Discharge Readiness Prediction
